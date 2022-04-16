@@ -4,4 +4,6 @@ In this module, we made the html practices on [patika.dev](https://www.patika.de
 
 ### Homeworks:
 
-hw1: Create your first website! Give us some information about yourself.
+hw1: https://app.patika.dev/courses/html/odev1
+
+hw2:https://app.patika.dev/courses/html/odev2
