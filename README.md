@@ -7,3 +7,5 @@ In this module, we made the html practices on [patika.dev](https://www.patika.de
 hw1: https://app.patika.dev/courses/html/odev1
 
 hw2:https://app.patika.dev/courses/html/odev2
+
+practice: https://app.patika.dev/courses/html/bolum-sonu1 + https://app.patika.dev/courses/html/bolum-sonu2
